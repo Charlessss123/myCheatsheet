@@ -1,0 +1,48 @@
+
+/*Css for the whole body */
+.main{
+  margin: 70px ;
+}
+
+/*Our header*/
+.main h1{
+  text-align: center;
+  margin: 0 auto;
+}
+  
+
+/*the Table styling*/
+table {
+    text-align: center;
+    border-right: 2px solid #2e2e1f;
+    border-left: 2px solid #2e2e1f;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+
+td , th {
+  padding: 30px;
+   border-top: 1px solid #2e2e1f;
+}
+
+td  {
+    border-top: 1px solid #2e2e1f;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.last {
+    border-bottom: 1px solid #2e2e1f;
+}
+
+th {
+    border-top: 1px solid #2e2e1f;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #5c5c3d;
+    text-transform: uppercase;
+}
+
+code {
+    background-color: #e6e7e8;
+}
